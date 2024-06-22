@@ -2,7 +2,7 @@
  using namespace std;
  class Nikhil{
 private: int id;
- string name;
+ string personalID;
 
  };
  int main(){
