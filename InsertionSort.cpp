@@ -9,6 +9,12 @@
    class NewMOde{
  public :
    };
+   class C{
+
+   };
+   class D{
+
+   };
 int main(){
 int a = 10;
 float  d =23.4;
