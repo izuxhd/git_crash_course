@@ -22,6 +22,8 @@ class G{
 };
 int main(){
 int a = 10;
+int b = 10;
+int c = 10;
 float  d =23.4;
 cout<<"Value of  a  is "<<a ;
  }
